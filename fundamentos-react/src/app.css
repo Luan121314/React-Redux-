@@ -1,0 +1,5 @@
+.app .containerCards{
+    display: flex;
+    flex-wrap: wrap;    
+    justify-content: center;
+}

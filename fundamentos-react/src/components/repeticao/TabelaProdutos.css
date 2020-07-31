@@ -1,0 +1,8 @@
+.TProdutos tr:nth-child(even){
+    background-color: #ccc;
+}
+
+.TProdutos tr,.TProdutos td{
+    padding:  5px, 10px;
+}
+
